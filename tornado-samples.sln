@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "tornado-facebook-login", "tornado-facebook-login\tornado-facebook-login.pyproj", "{397BD70A-9C0A-40D6-9E1B-BB8A46730B93}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "tornado-localization", "tornado-localization\tornado-localization.pyproj", "{3BF5F56A-2A8E-4CC0-A92E-B33784CF931E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{397BD70A-9C0A-40D6-9E1B-BB8A46730B93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{397BD70A-9C0A-40D6-9E1B-BB8A46730B93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BF5F56A-2A8E-4CC0-A92E-B33784CF931E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BF5F56A-2A8E-4CC0-A92E-B33784CF931E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
