@@ -1,5 +1,6 @@
 """ Helper functions """
 from toredis import Client
+from tornado import gen
 import config
 
 GROUP_TYPE = {"total": "pvc", "mobile": "pvc_mobile", "pc": "pvc_mobile", "social": "pvc_social", "other": "pvc_other"}
